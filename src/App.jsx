@@ -1,4 +1,5 @@
-import ToDoApp from "./components/ToDoApp";
+import ToDoApp from "./components/TaskListApp";
+import "./assets/fonts/fonts.css";
 
 function App() {
   return (
